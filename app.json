@@ -1,0 +1,22 @@
+{
+    "name": "UNIQUE-MD",
+    "description": "I am UNIQUE-MD Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/JASTINMTEWA-vn9pl",
+    "logo": "https://telegra.ph/file/6c86d9e75b6761fb0ba70.jpg",
+    "repository": "https://github.com/kingjux/UNIQUE-MD-QR",
+    "keywords": ["whatsappbot", "UNIQUEMd", "UNIQUE Md bot", "Unique-Md", "UniqueMdWhatsaooBot", "UniqueWaBot","UniqueMD","Unique Md Whatsapp Bot","multi device"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "set session id conformation message",
+        "value": "╔════◇\n║ *『 WAOW YOU CHOOSE UNIQUE-MD 』*\n║ _You complete first step to making Bot._\n╚════════════════════════╝\n╔═════◇\n║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』\n║ *Ytube:* _youtube.com/JASTINMTEWA-vn9pl_\n║ *Owner:* _https://wa.me/255698101622_\n║ *Note :*_Don't provide your SESSION_ID to_\n║ _anyone otherwise that can access chats_\n╚════════════════════════╝",
+        "required": false 
+      }
+    }   
+
+}
