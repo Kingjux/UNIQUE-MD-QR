@@ -13,21 +13,21 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
-🪩ᴛʜᴇ ᴘʀɪɴᴄᴇ ʙᴏᴛ Qʀ ʜᴀs ʙᴇᴇɴ sᴄᴀɴɴᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ ✅
+🪩ᴛʜᴇ ᴜɴɪǫᴜᴇ ᴍᴅ Qʀ ʜᴀs ʙᴇᴇɴ sᴄᴀɴɴᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ ✅
 
 💌ɢɪᴠᴇ ᴀ sᴛᴀʀ ᴛᴏ ᴍʏ ʀᴇᴘᴏ ғᴏʀ ᴄᴏᴜʀᴀɢᴇ ✨
-https://github.com/PRINCE-GDS/THE-PRINCE-BOT
+https://github.com/wasixd/UNIQUE-MD
 
 
 🪩ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ғᴏʀ ᴍᴏʀᴇ ϙᴜᴇʀʏ🪩
-https://chat.whatsapp.com/Jo5bmHMAlZpEIp75mKbwxP
+https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN
 
 
 ❇️Cʜᴀɴɴᴇʟ ʟɪɴᴋ❇️
-https://whatsapp.com/channel/0029VaGR6Ab7IUYPsbvSEa33
+https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o
 
 
-🛡️TᕼE-ᑭᖇIᑎᑕE-ᗷOT-ᗰᗪ🛡️
+🛡️TᕼE-ᑌᑎIᑫᑌE-ᗰᗪ🛡️
 `
 
 
