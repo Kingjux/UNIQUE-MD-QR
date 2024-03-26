@@ -24,7 +24,7 @@ https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN
 
 
 ❇️Cʜᴀɴɴᴇʟ ʟɪɴᴋ❇️
-https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o
+https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
 
 
 🛡️TᕼE-ᑌᑎIᑫᑌE-ᗰᗪ🛡️
